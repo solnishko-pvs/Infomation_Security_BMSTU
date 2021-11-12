@@ -2,6 +2,9 @@
 .idea
 venv
 __pycache__
+Scripts
+*cfg
+Lib
 
 ### PyCharm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
